@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+__MACOSX/
+*.png
+EDA_and_Model.ipynb
+research_centers_clustered.csv
