@@ -2,7 +2,7 @@
 
 A machine learning pipeline that classifies UK research centers into **Premium**, **Standard**, or **Basic** quality tiers using K-Means clustering, with a production-ready FastAPI endpoint and optional Docker deployment.
 
----
+--- ML Pipeline for classifying UK research centers into quality tiers using K-Means clustering, with a FastAPI endpoint and Docker deployment
 
 ## Project Structure
 
